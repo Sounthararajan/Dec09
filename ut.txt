@@ -4,3 +4,5 @@ git commit
 commit
 
 git push
+
+git revert
